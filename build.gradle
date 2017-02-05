@@ -2,8 +2,8 @@ apply plugin: "groovy"
 apply plugin: "maven"
 
 group = "com.componentix"
-version = "1.0-SNAPSHOT"
-targetCompatibility = "1.6"
+version = "1.0"
+targetCompatibility = "1.7"
 
 repositories {
     mavenCentral()
